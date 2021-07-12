@@ -1,0 +1,102 @@
+.card-1{
+    margin-top: 20%;
+    width: 300px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+}
+.card-1 :hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card-2{
+    margin-top: 20%;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+}
+.card-2 :hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card-3{
+    margin-top: 20%;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+}
+.card-3 :hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.arrow{
+    position: fixed;
+    text-align: end;
+}
+.section{
+    display: inline;
+}
+.column{
+    text-align: center;
+    width: 100%;
+    float: left;
+    width: 33.33%;
+    display: table;
+}
+
+.logo-pic{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    width: 250px;
+    display: inline-block;
+    position: absolute;
+}
+
+.navbar{
+    text-align: end ;
+    margin-top: 15px;
+
+}
+
+ul{
+    overflow: hidden;
+    display: inline;
+}
+li{
+    text-size-adjust: 30px;
+    display: inline;
+    list-style-type: none;
+}
+li a{
+    color: turquoise;
+    text-decoration: none;
+}
+a :hover{
+    color: rgb(13, 143, 115);
+}
+.home{
+    margin-right: 15%;
+}
+.home :hover{
+    background-color: rgba(70, 172, 163, 0.856);
+    border-radius: 1px;
+    border: 1px blue;
+    color: white;
+}
+
+.about{
+    margin-right:15% ;
+}
+.about :hover{
+    background-color: rgba(70, 172, 163, 0.856);
+    border-radius: 1px;
+    border: 1px blue;
+    color: white;
+}
+.contact{
+    margin-right: 15%;
+}
+.contact :hover{
+    background-color: rgba(70, 172, 163, 0.856);
+    border-radius: 1px;
+    border: 1px blue;
+    color: white;
+}
