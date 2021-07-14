@@ -1,3 +1,6 @@
+body{
+    background-color: #F5F5F5;
+}
 .card-1{
     margin-top: 20%;
     width: 300px;
@@ -26,6 +29,37 @@
 .card-3 :hover{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+.card-4{
+    margin-top: 20%;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+}
+.card-4 :hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+.card-5{
+    margin-top: 20%;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+}
+.card-5 :hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+.card-6{
+    margin-top: 20%;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+}
+.card-6 :hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
 .arrow{
     position: fixed;
     text-align: end;

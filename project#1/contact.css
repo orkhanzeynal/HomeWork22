@@ -1,0 +1,14 @@
+body{
+    background-color: #F5F5F5;
+}
+.form{
+    text-align: center;
+    margin-top: 7%;
+}
+.lname, .phone{
+    margin-left: 20px;
+}
+.message{
+    margin-top: 3%;
+    width: 600px;
+}
